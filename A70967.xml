@@ -1,0 +1,339 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered in the behalf of Scotland concerning the exceeding great disproportions betwixt the assessments of that nation at 6000 l. per mensem, and the assessment of England at 35000 l. monethly.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70967</idno>
+            <idno type="STC">Wing R546</idno>
+            <idno type="STC">ESTC R217970</idno>
+            <idno type="EEBO-CITATION">99829602</idno>
+            <idno type="PROQUEST">99829602</idno>
+            <idno type="VID">34042</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70967)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34042)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1998:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered in the behalf of Scotland concerning the exceeding great disproportions betwixt the assessments of that nation at 6000 l. per mensem, and the assessment of England at 35000 l. monethly.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1655?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  Scotland --  Early works to 1800.</term>
+               <term>Taxation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:34042:1" rendition="simple:additions"/>
+            <head>REASONS humbly offered in the behalf of <hi>Scotland,</hi> concerning the exceeding great Diſ<g ref="char:EOLhyphen"/>proportions betwixt the Aſſeſsments of that Nation at 6000 l. <hi>per menſem,</hi> and the Aſſeſsment of <hi>England</hi> at 35000 l. Monethly.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt, In the year 1653. when the preſent Parliament was interrupted, the Aſſeſsment of <hi>Scotland</hi> was 10000 l. <hi>per menſem,</hi> and the Aſſeſsment of <hi>England</hi> 120000 l. Monethly; which was but the Thirteenth part in proportion with <hi>England</hi> then. And many Honorable Members of this Parliament may very well remember how convincingly and clearly the <hi>Scots</hi> Deputies in ſe<g ref="char:EOLhyphen"/>veral Conferences inſtructed a vaſt diſproportion, even then betwixt <hi>Scotland</hi> and <hi>Englands</hi> Aſſeſsments.</p>
+            <p>Secondly, The then Protector and his Council without hearing that Nation, or any from them, were pleaſed to continue <hi>Scotland</hi> at 10000 l. Monethly ſtill, when <hi>England</hi> was reduced to 60000 l. <hi>per menſem.</hi> And now when <hi>England</hi> is brought to 35000 l. <hi>per menſem, Scotland</hi> ſtands at 6000 l. Monethly. A burthen impoſſible for that poor Nation to bear!</p>
+            <p>Thirdly, When <hi>Scotland</hi> was in a diſtinct condition under the Charges of all their Forces and Armies; and when they were brought to their greateſt ſtraights in raiſing money, the Aſſeſsment of that Nation never exceeded 9000 l. Monethly, at moſt, and that neither levied in a conſtant way, nor the Countrey looked on as in a condition able to bear it, even in their moſt flouriſhing condition and greateſt commerce.</p>
+            <p>Fourthly, <hi>Scotlands</hi> long continued burthen at 10000 l. and the exceeding great decay of Trade there (except the importing Foreign Commo<g ref="char:EOLhyphen"/>dities, and the exporting Money, which impoveriſheth it) together with the taking away that conſtant benefit the Nation ever enjoyed, by exporting their ſtaple Commodities which always brought in Money, hath ſo drained that Countrey of their Moneys, that it is well known, though the lives and fortunes of Men worth 1000 l. <hi>per annum,</hi> ſtood engaged, they could not at this day procure 1000 l. of ready Money to borrow any where there. And although ſome pay be coming in now and then to the Army from <hi>England,</hi> yet ſuch is the frugality and ſobriety of the Officers, and many of the Soldiers, that it is well known they return more Money back to <hi>England,</hi> then what comes in.</p>
+            <p>Fifthly, When <hi>Scotlands</hi> Trading was at the beſt, all the Cuſtoms of the Nation were Farmed ſeven years for 10000 l. <hi>per annum;</hi> and it can be made appear, That in <hi>Anno</hi> 1639 and after, <hi>Newcaſtle</hi> alone did pay 45000 l. yearly for their Cuſtoms, <hi>Briſtol</hi> above 20000 l. and ſeveral Cities in <hi>England</hi> more then all <hi>Scotland.</hi> And even now by comparing the Cuſtoms of <hi>England</hi> with <hi>Scotland,</hi> a vaſt diſproportion will appear.</p>
+            <p>Sixthly, If the old eſtimate or valuation of <hi>Yorkſhire</hi> alone, be compared with the full valuation of all <hi>Scotland</hi> now, it will appear. That the former is equal to the latter; or, if theſe who have received the Rents of any forfeit Lands in <hi>Scotland</hi> lately, and have an Eſtate in <hi>England</hi> alſo, be adviſed with upon the diſproportion, it will appear, That they have paid Twenty pound out of the Hundred in <hi>Scotland,</hi> when they did not at the ſame time pay Six pound out of the Hundred pound in <hi>England.</hi> And to the end it may evidently appear to all men, that <hi>Scotland</hi> pleads no eaſe in point of Favor, but meerly in point to Juſtice, That Nation is moſt willing to pay what Aſſeſsment the 100 l. of Rent in <hi>England</hi> pays for every 100 l Rent they have, albeit their Rents conſiſts in Corn, which always yields little more Money then will pay the Aſſeſsment.</p>
+            <p>Seventhly, By comparing the preſent Aſſeſsment of ſeveral Counties and Cities in <hi>England</hi> and <hi>Scotland</hi> together, an undeniable and exceed<g ref="char:EOLhyphen"/>ing great diſproportion, will manifeſtly appear. For inſtance,
+<table>
+                  <row>
+                     <cell role="label" cols="6"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label" cols="2"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Northumberland</hi> County</item>
+                           <item>
+                              <hi>Cumberland</hi> County</item>
+                           <item>
+                              <hi>Weſtmerland County</hi>
+                           </item>
+                           <item>
+                              <hi>Durham County</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell cols="5">pay all four Monethly but</cell>
+                     <cell>257</cell>
+                     <cell>16</cell>
+                     <cell>09</cell>
+                     <cell cols="2">
+                        <hi>Roxburghſhire</hi> worſe by far than any of them payes</cell>
+                     <cell>307</cell>
+                     <cell>04</cell>
+                     <cell>09</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Huntingdon</hi>
+                     </cell>
+                     <cell rows="3" cols="5"> </cell>
+                     <cell>311</cell>
+                     <cell>02</cell>
+                     <cell>03</cell>
+                     <cell>The Shire of <hi>Aire</hi>
+                     </cell>
+                     <cell rows="3">Mo.</cell>
+                     <cell>322</cell>
+                     <cell>10</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cheſhire</hi>
+                     </cell>
+                     <cell>385</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>The Shire of <hi>Perth</hi>
+                     </cell>
+                     <cell>419</cell>
+                     <cell>17</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Rutland</hi>
+                     </cell>
+                     <cell>136</cell>
+                     <cell>02</cell>
+                     <cell>03</cell>
+                     <cell>
+                        <hi>Dumfriezſhire</hi>
+                     </cell>
+                     <cell>226</cell>
+                     <cell>01</cell>
+                     <cell>05</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Cities in <hi>England</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                     <cell role="label" cols="4"> </cell>
+                     <cell role="label">Burroughs in <hi>Scotland</hi>
+                     </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label" cols="3"> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Briſtol</hi>
+                     </cell>
+                     <cell rows="5">Monethly</cell>
+                     <cell>85</cell>
+                     <cell>11</cell>
+                     <cell>01</cell>
+                     <cell rows="5">in all but</cell>
+                     <cell rows="5">332</cell>
+                     <cell rows="5">02</cell>
+                     <cell rows="5">00</cell>
+                     <cell rows="5">
+                        <hi>Edinburgh</hi> City (no ways comparable to <hi>Newcaſtle</hi> alone) pays</cell>
+                     <cell rows="5">Monethly</cell>
+                     <cell rows="5">334</cell>
+                     <cell rows="5">12</cell>
+                     <cell rows="5">00</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cheſter</hi>
+                     </cell>
+                     <cell>42</cell>
+                     <cell>15</cell>
+                     <cell>07</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Norwich</hi>
+                     </cell>
+                     <cell>93</cell>
+                     <cell>06</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Southwark</hi>
+                     </cell>
+                     <cell>92</cell>
+                     <cell>07</cell>
+                     <cell>03</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Newcastle</hi>
+                     </cell>
+                     <cell>17</cell>
+                     <cell>15</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Exon</hi>
+                     </cell>
+                     <cell rows="3" cols="5">pays Monethly but</cell>
+                     <cell>053</cell>
+                     <cell>13</cell>
+                     <cell>04</cell>
+                     <cell>
+                        <hi>Dundee</hi>
+                     </cell>
+                     <cell rows="3">Monethly</cell>
+                     <cell>069</cell>
+                     <cell>18</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Liechfield</hi>
+                     </cell>
+                     <cell>007</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>Irwing</hi>
+                     </cell>
+                     <cell>009</cell>
+                     <cell>19</cell>
+                     <cell>08</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Berwick</hi>
+                     </cell>
+                     <cell>002</cell>
+                     <cell>18</cell>
+                     <cell>00</cell>
+                     <cell>
+                        <hi>Haddington</hi>
+                     </cell>
+                     <cell>018</cell>
+                     <cell>00</cell>
+                     <cell>06</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Thus the Honorable Members of this Parliament may conſider and perceive, That i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will by no equal computation or eſtimate whatſoever, either General or Particular appear, That <hi>Scotland</hi> is the Twentieth part of <hi>England.</hi>
+            </p>
+            <p>And though it may be ſaid, That <hi>Scotland</hi> puts <hi>England</hi> to ſome Charge in keeping an Army there; it is anſwered, That ſo many of the Forces are not kept there ſingly in relation to <hi>Scotland,</hi> but chiefly with an eye to <hi>England.</hi> good and ſafety from danger elſwhere: It being offered to be made appear, That a far fewer number are abundantly ſufficient to keep that Nation peaceable; and that having equal Juſtice in Property and other Priviledges, there is as little cauſe to apprehend their ſtirring as any other part of the Commonwealth; and if it appear otherwiſe, it is reaſonable that they who will not be peaceable, ſhall bear their particular burthen.</p>
+            <p>Moreover, it would ſeem very hard, that becauſed Six or ſeven Regiments are kept in and about <hi>London, Weſtminſter,</hi> and <hi>Hull,</hi> therefore theſe places ſhould be aſſeſt above their due proportions.</p>
+            <p>Theſe things being conſidered, it is humbly conceived, That it being the Rule of this Parliament in other things to put matters in the like con<g ref="char:EOLhyphen"/>dition as they were in at their interruption; at which time <hi>Scotland</hi> was but the Thirteenth part with <hi>England;</hi> they will at leaſt ſo ſettle the Aſſeſs<g ref="char:EOLhyphen"/>ment of that Nation now, until it be made more plainly appear (if it be needful) that they are not the Twentieth part of <hi>England,</hi> conſidering that <hi>Scotland</hi> is really at this day in a worſe condition then they were in <hi>Anno</hi> 1652. or 1653. That ſo that poor afflicted Nation may ſee and taſte the difference betwixt the Government of a Commonwealth, and of a ſingle Perſon.</p>
+            <p>Having in this Paper formerly given in to ſeveral Members of the Houſe, hinted at the vaſt diſproportion betwixt the preſent Aſſeſsment of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Scotland,</hi> and made it clearly appear, That <hi>Scotlands</hi> proportion of Aſſeſsment can upon no accompt whatſoever be eſtimate the Twentieth part of <hi>Englands;</hi> and hearing that the Parliament are to Aſſeſs <hi>Scotland</hi> at the Sixth part in proportion with <hi>England,</hi> it is humbly added, That well near theſe Twenty years by-paſt, the Lord hath thought fit to exerciſe that poor Nation with an inteſtine and bloody War, wherein the vaſtations, ſpoilings, and burnings, with an univerſal Peſtilence, made the greater part thereof deſolate. During which, the Conſcience of their Duty in order to Re<g ref="char:EOLhyphen"/>ligion and civil Intereſts, with the hope of ſome memorable and laſting advantage to themſelves and their poſterity, and the daily expectation that one year or two ſhould have finiſhed their troubles, Did encourage them to indure all the miſeries which ſo many Changes did produce; albeit their Bowels were conſuming all the while. But now all Eſtates, Families, Incorporations, and the Body of the Land being irrecoverably ſpent, and their money exhauſted; and there being many hundreds of Families ſometimes in good account there, whom no Riot or Intemperance, but the publick calamities and burthens meerly have redacted to all woful extremity: And who (if Honor and Tenderneſs did not reſtrain them) would willingly abandon all their Intereſts, and bid farewel to their Native Countrey, and be content their acquaintance and dwelling places ſhould know them no more. And theſe and many more, having at this Parliaments return to the Government, confidently preſaged, That the bitterneſs of death was over, and being ſtill in expectation, that the Parliaments Moderation, Juſtice, and Sence of their Miſeries, will make former Promiſes and Profeſſions good to them; If they ſhall (after the late Vote in the Grand Committee on the Union, appointing <hi>Scotlands</hi> proportion the Thirteenth part of <hi>Eng<g ref="char:EOLhyphen"/>lands</hi>) meet with ſuch an unimagined diſappointment, whilſt God is gone out againſt them in the unſeaſonableneſs of the ſeaſon, and threatning an univerſal Famine there; moſt of their Corns that are reaped, being already deſtroyed, and the remainder given up for loſt; what can they ſay, or to what Airth ſhall they look.</p>
+            <p>But if there be any Bowels, any Simpathy, any Compaſſions, or if Arguments from Common Juſtice, the Laws of God and Nature, the Moral Bonds lying on thoſe who rule over men, Examples or Reaſons of State, may be admitted to plead for a People, who can ſay they Agrege not their Calamities beyond the bounds of Ingenuity and Truth. It is hoped from the Juſtice of this Parliament, That the Aſſeſsment to be impoſed on that afflicted people, ſhall be according to a juſt proportion with <hi>England;</hi> the which will very much ſilence their Grievances, and make them undergo the burthen with the greater ſatisfaction, when they finde their proportion ſetled according to a juſt Rule.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
